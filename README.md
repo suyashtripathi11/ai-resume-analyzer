@@ -23,22 +23,6 @@ Build an AI-powered Resume Analyzer with React, React Router, and Puter.js! Impl
 
 👉 **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
 
-And many more, including code architecture and reusability.
 
 
 
-cd ai-resume-analyzer
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Running the Project**
-
-```bash
-npm run dev
